@@ -1,0 +1,7 @@
+.quotes-main-container {
+  background-color: var(--dark-grayish-blue);
+}
+.sub-container {
+  color: var(--light-cyan);
+  background-color: var(--grayish-blue);
+}
